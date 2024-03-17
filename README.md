@@ -1,1 +1,1 @@
-# Portfolio_project1
+This is my portfolio project for Business College Helsinki.
